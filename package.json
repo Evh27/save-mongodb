@@ -21,7 +21,7 @@
 , "devDependencies":
   { "mocha": "*"
   , "should": "*"
-  , "save": ">=0.0.14"
+  , "save": "git+https://github.com/Evh27/save.git"
   , "lodash": "*"
   }
 }
