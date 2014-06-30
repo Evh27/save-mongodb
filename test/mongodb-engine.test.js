@@ -31,7 +31,7 @@ function drop() {
 
 require('save/test/engine.tests')(idProperty, getEngine, connect, drop)
 
-describe.only('mongodb-engine', function () {
+describe('mongodb-engine', function () {
 
   before(connect)
   after(drop)
