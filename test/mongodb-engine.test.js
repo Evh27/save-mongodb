@@ -27,6 +27,7 @@ function connect(done) {
 
 function drop() {
   db.dropDatabase()
+  db.close()
 }
 
 require('save/test/engine.tests')(idProperty, getEngine, connect, drop)
