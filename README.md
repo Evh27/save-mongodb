@@ -1,4 +1,4 @@
-# save-mongodb - mongodb persistence engine for **save**
+# save-mongodb - mongodb persistence engine for **save** [![Build Status](https://travis-ci.org/Evh27/save-mongodb.svg?branch=master)](https://travis-ci.org/Evh27/save-mongodb)
 
 ## Installation
 
